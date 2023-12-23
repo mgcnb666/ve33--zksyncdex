@@ -1,4 +1,4 @@
-ve33--zksyncdex 是用 Solidity 开发的一个以太坊联盟链项目,它用来部署和管理zkSync平行链上的智能合约。
+ve33--zksyncdex 是用 Solidity 开发的一个zksync项目,它用来部署和管理zkSync平行链上的智能合约。
 
 目录结构
 复制
