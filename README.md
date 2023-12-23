@@ -20,9 +20,6 @@ deployERC20.sol
 setFee.linea.sol
 设置费率合约
 
-脚本使用
-deploy.sh
-部署所有合约到zkSync测试网
 
 upgrade.sol
 升级合约到新的版本
